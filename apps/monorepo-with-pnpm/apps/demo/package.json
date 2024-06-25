@@ -1,0 +1,6 @@
+{
+  "name": "@monorepo-with-pnpm/demo",
+  "dependencies": {
+    "@monorepo-with-pnpm/utils": "workspace:^"
+  }
+}
